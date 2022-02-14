@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-14T15:12:30 IST" name="Suite" finished-at="2022-02-14T15:12:30 IST" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2022-02-14T15:12:30 IST" name="Test" finished-at="2022-02-14T15:12:30 IST" duration-ms="57">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:qaclickacademy.AppiumTest@3232a28a]" started-at="2022-02-14T15:12:30 IST" name="IOSApps" finished-at="2022-02-14T15:12:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAPpAndroid()[pri:0, instance:qaclickacademy.AppiumTest@3232a28a]" started-at="2022-02-14T15:12:30 IST" name="NativeAPpAndroid" finished-at="2022-02-14T15:12:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+        <test-method signature="NativeAPpAndroidS()[pri:0, instance:qaclickacademy.AppiumTest@3232a28a]" started-at="2022-02-14T15:12:30 IST" name="NativeAPpAndroidS" finished-at="2022-02-14T15:12:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroidS -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:qaclickacademy.RESTAPITest@32ee6fee]" started-at="2022-02-14T15:12:30 IST" name="deleteTwitter" finished-at="2022-02-14T15:12:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="deleteTwitter12()[pri:0, instance:qaclickacademy.RESTAPITest@32ee6fee]" started-at="2022-02-14T15:12:30 IST" name="deleteTwitter12" finished-at="2022-02-14T15:12:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter12 -->
+        <test-method signature="postJira()[pri:0, instance:qaclickacademy.RESTAPITest@32ee6fee]" started-at="2022-02-14T15:12:30 IST" name="postJira" finished-at="2022-02-14T15:12:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="BrowserAUtomation()[pri:0, instance:qaclickacademy.SeleniumTest@429bffaa]" started-at="2022-02-14T15:12:30 IST" name="BrowserAUtomation" finished-at="2022-02-14T15:12:30 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method signature="elementsU1i()[pri:0, instance:qaclickacademy.SeleniumTest@429bffaa]" started-at="2022-02-14T15:12:30 IST" name="elementsU1i" finished-at="2022-02-14T15:12:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsU1i -->
+        <test-method signature="elementsU1ssi()[pri:0, instance:qaclickacademy.SeleniumTest@429bffaa]" started-at="2022-02-14T15:12:30 IST" name="elementsU1ssi" finished-at="2022-02-14T15:12:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsU1ssi -->
+        <test-method signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@429bffaa]" started-at="2022-02-14T15:12:30 IST" name="elementsUi" finished-at="2022-02-14T15:12:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
