@@ -27,25 +27,6 @@ bat "mvn test"
 
 }
 
-stage('Unit Testing')
-{
-steps{
-bat "mvn compile"
-}
-
-}
-stage('Release')
-{
-when{
-branch "origin/master"
-}
-steps{
-echo 'releasing the project'
-}
-
-}
-
-
 
 }
 
